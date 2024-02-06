@@ -1,4 +1,31 @@
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+*.mtj.tmp/
+
+# Package Files #
+
+# Virtual Machine crash logs
+hs_err_pid*
+
+# Git
+git.properties
+
+# IDEA Project Files
+*iml
+*iws
+.idea
+*ipr
+ishopdb
+
+# Other
 node_modules
-.idea/
 .DS_Store
 package-lock.json
